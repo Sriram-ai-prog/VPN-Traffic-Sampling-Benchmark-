@@ -35,7 +35,7 @@ final_project/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Sriram-ai-prog/VPN-Traffic-Sampling-Benchmark-)
    cd final_project
    ```
 2. Install dependencies:
